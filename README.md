@@ -1,7 +1,6 @@
 ### Hi, I'm jujimeizuo, Welcome! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujimeizuo)](https://github.com/jujimeizuo)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujimeizuo&langs_count=10&layout=compact)](https://github.com/jujimeizuo)
 
 <div>
