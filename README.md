@@ -3,6 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujimeizuo)](https://github.com/jujimeizuo)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujimeizuo&langs_count=10&layout=compact)](https://github.com/jujimeizuo)
 
 <div>
