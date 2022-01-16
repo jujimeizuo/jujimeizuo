@@ -1,4 +1,13 @@
-### Hi, I'm jujimeizuo, Welcome! 👋
+### Hey, I'm jujimeizuo, Welcome! 👋
+
+Currently, I am a junior and working on C++ and Java development. I like to built some interesting project on GitHub.
+
+Check these if you want:
+- [My blog](http://www.jujimeizuo.cn/blog/)
+
+How to contact me?
+- Tencent QQ：3058852685
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujimeizuo)](https://github.com/jujimeizuo)
 
@@ -21,8 +30,11 @@
   </a>
 
  </div>
+
 <!--
 **jujimeizuo/jujimeizuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
