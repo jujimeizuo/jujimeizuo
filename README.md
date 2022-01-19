@@ -8,7 +8,6 @@ Check these if you want:
 How to contact me?
 - Tencent QQ：3058852685
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujimeizuo)](https://github.com/jujimeizuo)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
