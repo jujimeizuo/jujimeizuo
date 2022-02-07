@@ -4,7 +4,6 @@ Currently, I am a junior and working on C++ and Java development. I like to buil
 
 
 
-
 Check these if you want:
 - [My blog](http://www.jujimeizuo.cn/blog/)
 
