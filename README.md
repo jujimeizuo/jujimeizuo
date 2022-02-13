@@ -6,8 +6,9 @@ Currently, I am a junior and working on C++ and Java development. I like to buil
 Check these if you want:
 - [My blog](http://www.jujimeizuo.cn/blog/)
 
+
 How to contact me?
-- Tencent QQ：3058852685
+- Tencent QQ：3058852685 or Click [this](https://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujimeizuo)](https://github.com/jujimeizuo)
 
