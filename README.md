@@ -8,6 +8,7 @@ Check these if you want:
 
 How to contact me?
 - Tencent QQ：3058852685 or Click [this](https://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes)
+- email: fengzetao_zed@foxmail.com / jujimeizuo@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujimeizuo)](https://github.com/jujimeizuo)
 
