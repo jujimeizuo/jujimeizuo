@@ -3,7 +3,6 @@
 Currently, I am a junior and working on C++ and Java development. I like to built some interesting project on GitHub.
 
 
-
 Check these if you want:
 - [My blog](http://www.jujimeizuo.cn/blog/)
 - [My csdn](https://blog.csdn.net/fztsilly?type=blog)
