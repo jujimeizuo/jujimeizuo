@@ -26,7 +26,7 @@ How to contact me?
   </a>
   
   <a href="https://blog.csdn.net/fztsilly?type=blog" target="_blank">
-  <img style="display: inline-block;" src="https://img.shields.io/badge/csdn%20fans-119-black" />
+  <img style="display: inline-block;" src="https://img.shields.io/badge/csdn%20fans-120-black" />
     
   </a>
 
