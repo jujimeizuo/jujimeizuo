@@ -11,10 +11,10 @@ How to contact me?
 - Email: fengzetao_zed@foxmail.com or jujimeizuo@gmail.com
 <div>
 <a href="https://github.com/jujimeizuo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jujimeizuo&show_icons=true&theme=radical" width="450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jujimeizuo&show_icons=true&theme=radical" width="510" />
 </a>
 <a href="https://github.com/jujimeizuo/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujimeizuo&langs_count=10&layout=compact&theme=radical" width="370"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujimeizuo&langs_count=10&layout=compact&theme=radical" width="330"/>
 </a>
 </div>
 
