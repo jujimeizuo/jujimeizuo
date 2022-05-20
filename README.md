@@ -16,8 +16,9 @@ How to contact me?
 <a href="https://github.com/jujimeizuo/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujimeizuo&langs_count=10&layout=compact&theme=radical" />
 </a>
+<a>
   <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
-  
+</a>
 </div>
 
 <div>
