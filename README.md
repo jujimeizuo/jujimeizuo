@@ -9,12 +9,14 @@ Check these if you want:
 How to contact me?
 - Tencent QQ：3058852685 or Click [this](https://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes)
 - Email: fengzetao_zed@foxmail.com or jujimeizuo@gmail.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujimeizuo)](https://github.com/jujimeizuo)
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujimeizuo&langs_count=10&layout=compact)](https://github.com/jujimeizuo)
+<div>
+<a href="https://github.com/jujimeizuo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jujimeizuo&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/jujimeizuo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujimeizuo&langs_count=10&layout=compact&theme=radical" />
+</a>
+</div>
 
 <div>
   <a href="https://github.com/jujimeizuo" target="_blank">
