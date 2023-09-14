@@ -10,6 +10,27 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jujimeizuo.jujimeizuo" alt="visitors"/>
 </p>
 
+<p align="center">
+<!--   <samp>
+    <a href="http://www.jujimeizuo.cn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/favicon.png" alt="me" height="30" width="30" /> ∙
+    <a href="http://www.jujimeizuo.cn/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/wordpress.svg" alt="blog" height="30" width="30" /> ∙
+    <a href="https://note.jujimeizuo.cn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/note.svg" alt="note" height="30" width="30" /> ∙
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/qq.svg" alt="qq" height="30" width="30" /> ∙
+    <a href="https://twitter.com/jujimeizuo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/x.svg" alt="twitter" height="27" width="27" /> ∙
+    <a href="jujimeizuo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a> ∙
+    <a href="https://t.me/jujimeizuo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/telegram.svg" alt="telegram" height="30" width="30" /></a>
+  </samp> -->
+  <samp>
+    <a href="http://www.jujimeizuo.cn/" target="blank">me</a> ∙
+    <a href="http://www.jujimeizuo.cn/blog/" target="blank">blog</a> ∙
+    <a href="https://note.jujimeizuo.cn/" target="blank">note</a> ∙
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes" target="blank">qq</a> ∙
+    <a href="https://twitter.com/jujimeizuo/" target="blank">twiiter</a> ∙
+    <a href="jujimeizuo@gmail.com" target="blank">gmail</a> ∙
+    <a href="https://t.me/jujimeizuo/" target="blank">telegram</a>
+  </samp>
+</p>
+
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
@@ -63,21 +84,6 @@
 <!--  2d history skills -->
 <!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img> -->
 
-**📫 How to Reach me:**
-
-<p align="center">
-  <samp>
-    <a href="http://www.jujimeizuo.cn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/favicon.png" alt="me" height="30" width="30" /> ∙
-    <a href="http://www.jujimeizuo.cn/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/wordpress.svg" alt="blog" height="30" width="30" /> ∙
-    <a href="https://note.jujimeizuo.cn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/note.svg" alt="note" height="30" width="30" /> ∙
-    <a href="http://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/qq.svg" alt="qq" height="30" width="30" /> ∙
-    <a href="https://twitter.com/jujimeizuo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/x.svg" alt="twitter" height="27" width="27" /> ∙
-    <a href="jujimeizuo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a> ∙
-    <a href="https://t.me/jujimeizuo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/master/assets/telegram.svg" alt="telegram" height="30" width="30" /></a>
-  </samp>
-</p>
-
-<br>
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
