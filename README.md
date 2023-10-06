@@ -25,7 +25,7 @@
     <a href="http://www.jujimeizuo.cn/" target="blank">me</a> ∙
     <a href="http://www.jujimeizuo.cn/blog/" target="blank">blog</a> ∙
     <a href="https://note.jujimeizuo.cn/" target="blank">note</a> ∙
-    <a href="https://run.jujimeizuo.cn/" target="blank">run</a> ∙
+    <a href="https://running-page-jujimeizuo.vercel.app/" target="blank">run</a> ∙
     <a href="http://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes" target="blank">qq</a> ∙
     <a href="https://twitter.com/jujimeizuo/" target="blank">x</a> ∙
     <a href="jujimeizuo@gmail.com" target="blank">gmail</a> ∙
