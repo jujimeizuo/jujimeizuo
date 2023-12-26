@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/jujimeizuo/jujimeizuo"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
     <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/G++-17-1400FF.svg"></a>
     <a href="https://github.com/jujimeizuo/jujimeizuo/graphs/contributors"><img src="https://img.shields.io/github/contributors/jujimeizuo/jujimeizuo?color=blue"></a>
     <!-- <a href="https://github.com/jujimeizuo/jujimeizuo/stargazers"><img src="https://img.shields.io/github/stars/jujimeizuo/jujimeizuo.svg?logo=github"></a>
@@ -39,7 +39,10 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+jujimeizuo;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+
+<center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+jujimeizuo+😃;+Welcome+to+My+Profile!+🤗;Always+learning+new+things+💦" alt="Typing SVG" /></a>
+</center>
 
 
 <!--   my-kaggle     
@@ -91,12 +94,10 @@
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
+
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jujimeizuo" alt="jujimeizuo" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jujimeizuo&theme=onedark&column=-1" alt="jujimeizuo"/></a>
 </p>
-
-
-
  
 
 
@@ -120,7 +121,7 @@
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/jujimeizuo/count.svg">  
-
+</p>
 <!-- counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
