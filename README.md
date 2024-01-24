@@ -70,68 +70,16 @@
 <!-- [![jujimeizuo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jujimeizuo&theme=github-compact)](https://github.com/jujimeizuo/github-readme-activity-graph) -->
 ![jujimeizuo's github activity graph](https://raw.githubusercontent.com/jujimeizuo/jujimeizuo/output/github-contribution-grid-snake.svg)
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jujimeizuo"></img> -->
-
-<!--   profile-green-animate -->
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
-
-<!--   grid-snake -->
-<!-- ![](https://github.com/jujimeizuo/jujimeizuo/blob/output/github-contribution-grid-snake.svg) -->
-
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img> -->
 
 
-<div align="center">
+<!-- <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jujimeizuo&theme=onedark&column=-1" alt="jujimeizuo"/></a>
-</p>
- 
-
-
-
-<!-- <img src="./github-metrics.svg" alt="Metrics" width="100%"> -->
-
-
-
-
-<!-- <p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-
 </p> -->
-
-
-
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/jujimeizuo/count.svg">  
-</p>
-<!-- counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
-
-
-<!-- ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jujimeizuo/jujimeizuo&type=Date)](https://star-history.com/#jujimeizuo/jujimeizuo&Date) -->
-
-
-
-### Profile Views
-counting of visitors to this page in this section started from August 20, 2023
-
-![](https://count.getloli.com/get/@jujimeizuo.github.readme)
-
+ 
 
 ![](assets/Bottom_down.svg)
