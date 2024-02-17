@@ -6,8 +6,6 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
     <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/G++-17-1400FF.svg"></a>
     <a href="https://github.com/jujimeizuo/jujimeizuo/graphs/contributors"><img src="https://img.shields.io/github/contributors/jujimeizuo/jujimeizuo?color=blue"></a>
-    <!-- <a href="https://github.com/jujimeizuo/jujimeizuo/stargazers"><img src="https://img.shields.io/github/stars/jujimeizuo/jujimeizuo.svg?logo=github"></a>
-    <a href="https://github.com/jujimeizuo/jujimeizuo/network/members"><img src="https://img.shields.io/github/forks/jujimeizuo/jujimeizuo.svg?color=blue&logo=github"></a> -->
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jujimeizuo.jujimeizuo" alt="visitors"/>
 </p>
 
