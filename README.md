@@ -21,7 +21,7 @@
   </samp> -->
   <samp>
     <a href="https://jujimeizuo.cn/" target="blank">me</a> ∙
-    <a href="http://www.jujimeizuo.cn/blog/" target="blank">blog</a> ∙
+    <a href="https://blog.jujimeizuo.cn/" target="blank">blog</a> ∙
     <a href="https://note.jujimeizuo.cn/" target="blank">note</a> ∙
     <a href="https://running-page-jujimeizuo.vercel.app/" target="blank">run</a> ∙
     <a href="http://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes" target="blank">qq</a> ∙
