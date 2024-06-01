@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/jujimeizuo/jujimeizuo"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/G++-17-1400FF.svg"></a>
     <a href="https://github.com/jujimeizuo/jujimeizuo/graphs/contributors"><img src="https://img.shields.io/github/contributors/jujimeizuo/jujimeizuo?color=blue"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jujimeizuo.jujimeizuo" alt="visitors"/>
@@ -72,7 +72,6 @@
 <!-- <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
-
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jujimeizuo&theme=onedark&column=-1" alt="jujimeizuo"/></a>
