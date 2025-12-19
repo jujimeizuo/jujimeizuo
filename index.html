@@ -1,101 +1,110 @@
-<!DOCTYPE html5>
-<html lang="en">
-
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="jujimeizuo's Homepage">
-  <meta name="keywords" content="jujimeizuo,狙击美佐">
-  <meta name="author" content="jujimeizuo">
-  <meta name="copyright" content="jujimeizuo">
-  
-  
-  <!--Bootstrap CSS -->
-  <link rel="stylesheet" href="https://cdn.jujimeizuo.cn/utils/bootstrap.min.css">
-  <link rel="preconnect" href="https://fonts.gstatic.com" />
-  <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/5.15.2/css/all.min.css" />
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,600;0,700;1,400;1,700&family=Righteou&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./css/style.css">
-  <link rel="stylesheet" href="./css/btn.css">
-  <link rel="stylesheet" href="./css/mask.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="icon" type="image/x-ico" href="favicon.ico">
-  <title>
-    jujimeizuo · Home
-  </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jujimeizuo · home</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <meta name="description" content="Personal Homepage of jujimeizuo - Computer Science, 3D Vision, Runner.">
 </head>
-
 <body>
-  <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://cdn.jujimeizuo.cn/utils/bootstrap.bundle.min.js"></script>
-  <div class="loading_container">
-    <div class="loading"></div>
-  </div>
-  <div class="OtherContainer">
-    <div class="MainInformation">
-      <div class="myBriefInformation">
-        <div>🌟ID: jujimeizuo</div>
-        <!-- <div>💕性格:INTJ</div> -->
-        <div>🏫Studying in:Jiangnan University</div>
-        <div>⚙️Major: Computer Science</div>
-        <div>👁️Working on: 3D Vision(SLAM|NeRF|3DGS)</div>
-	<div>🏢Worked in:<a href="https://www.xgrids.com/" style="color:#000000;"> XGrids</a></div>
-        <div>🕛PB: 5KM(23'52)|10KM(52'50)|half-m(2'49'34)</div>
-      </div>
-      <div class="myPic">
-        <img src="./img/head.png">
-      </div>
-    </div>
 
-    <div class="DetailInformation">
-      <h2 style="padding-top: 10px; padding-left: 70px;">Skill</h2>
+    <main class="container">
+        <header class="profile-header">
+            <img src="img/head.png" alt="jujimeizuo" class="avatar">
+            <h1 class="name">jujimeizuo</h1>
+            <div class="tagline-container">
+                <div class="tagline-row">
+                    <span class="univ-name"><a href="https://www.jiangnan.edu.cn/" target="_blank" class="highlight">JNU</a></span>
+                    <div class="tags">
+                        <span class="tag">CS</span> <span class="tag">3DGS</span> <span class="tag">SLAM</span>
+                    </div>
+                </div>
+                <div class="tagline-row">
+                    <span class="univ-name"><a href="http://www.zjgsu.edu.cn/" target="_blank" class="highlight">ZJSU</a></span>
+                    <div class="tags">
+                        <span class="tag">CS</span> <span class="tag">ACM</span>
+                    </div>
+                </div>
+            </div>
+        </header>
 
-      <div class="skill">
-        <div>ACM</div>
-        <progress value="30" max="100"></progress>
-      </div>
-      <div class="skill">
-        <div>3DV</div>
-        <progress value="10" max="100"></progress>
-      </div>
-      <div class="skill">
-	<div>PLAY</div>
-	<progress value="100" max="100"></progress>
-      </div>
-    </div>
+        <section class="about-section">
+            <h2>Experience</h2>
+            <div class="about-container">
+                <div class="work-row">
+                    <span class="work-label">Incoming</span>
+                    <span class="work-company">@ <a href="https://www.sensetime.com/" target="_blank" class="highlight">SenseTime</a></span>
+                    <div class="work-tags">
+                        <span class="tag">AI Infra</span>
+                        <span class="tag">Storage</span>
+                        <span class="tag">Sys</span>
+                    </div>
+                </div>
+                <div class="work-row">
+                    <span class="work-label">Previous</span>
+                    <span class="work-company">@ <a href="https://www.xgrids.com/" target="_blank" class="highlight">XGrids</a></span>
+                    <div class="work-tags">
+                        <span class="tag">C++</span>
+                        <span class="tag">Sys</span>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-    <div class="contact">
-      <div class="btn-list">
-        <p align="center">
-          <samp>
-            <a href="https://github.com/jujimeizuo/" target="blank"><img align="center" src="./img/github.svg" alt="github" height="47" width="47"   data-toggle="tooltip" data-placement="bottom" data-html="true" title="" data-original-title="<b>GitHub</b>"/></a>&ensp;&ensp;&ensp;
-            <a href="https://blog.jujimeizuo.cn/" target="blank"><img align="center" src="./img/wordpress.svg" alt="blog" height="55" width="55"  data-toggle="tooltip" data-placement="bottom" data-html="true" title="" data-original-title="<b>Blog</b>"/></a>&ensp;&ensp;&ensp;
-            <a href="https://note.jujimeizuo.cn/" target="blank"><img align="center" src="./img/note.svg" alt="note" height="50" width="50"  data-toggle="tooltip" data-placement="bottom" data-html="true" title="" data-original-title="<b>Notebook</b>"/></a>&ensp;&ensp;&ensp;
-            <a href="http://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes" target="blank"><img align="center" src="./img/qq.svg" alt="qq" height="50" width="50"  data-toggle="tooltip" data-placement="bottom" data-html="true" title="" data-original-title="<b>QQ</b>"/></a>&ensp;&ensp;&ensp;
-            <a href="https://running-page-nu-seven.vercel.app/" target="blank"><img align="center" src="./img/run.svg" alt="run" height="50" width="50"  data-toggle="tooltip" data-placement="bottom" data-html="true" title="" data-original-title="<b>Run</b>"/></a>&ensp;&ensp;&ensp;
-            <a href="https://twitter.com/jujimeizuo/" target="blank"><img align="center" src="./img/x.svg" alt="twitter" height="47" width="47"  data-toggle="tooltip" data-placement="bottom" data-html="true" title="" data-original-title="<b>X</b>"/></a>&ensp;&ensp;&ensp;
-            <a href="https://jujimeizuo@gmail.com" target="blank"><img align="center" src="./img/gmail.svg" alt="Gmail" height="50" width="50"  data-toggle="tooltip" data-placement="bottom" data-html="true" title="" data-original-title="<b>Gmail</b>"/></a>&ensp;&ensp;&ensp;
-            <a href="https://t.me/jujimeizuo/" target="blank"><img align="center" src="./img/telegram.svg" alt="telegram" height="50" width="50"  data-toggle="tooltip" data-placement="bottom" data-html="true" title="" data-original-title="<b>Telegram</b>"/></a>
-          </samp>
-        </p>
-      </div>
-    </div>
-  </div>
-  <div style="position: absolute; bottom: 10px;">
-      <p align="center">
-        Copyright &copy; 2020-2025 @jujimeizuo<br>
-          <a href="http://beian.miit.gov.cn/" style="color:#000000;">浙&thinsp;ICP&thinsp;备&thinsp;2021035172&thinsp;号-1</a>
-      </p>
-    </div>
-  </body>
+        <section class="stats-section">
+            <h2>Personal Bests</h2>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <span class="stat-label">5KM</span>
+                    <span class="stat-value">23"52</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">10KM</span>
+                    <span class="stat-value">52"50</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">21.0975KM</span>
+                    <span class="stat-value">2'49"34</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">42.195KM</span>
+                    <span class="stat-value">None</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- <section class="skills-section">
+            <h2>Interests</h2>
+            <div class="skills-list">
+            </div>
+        </section> -->
+
+        <nav class="links-section">
+            <ul>
+                <li><a href="https://github.com/jujimeizuo/" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><img src="img/github.svg" alt="GitHub"></a></li>
+                <li><a href="https://blog.jujimeizuo.cn/" target="_blank" rel="noopener noreferrer" aria-label="Blog"><img src="img/blog.svg" alt="Blog"></a></li>
+                <li><a href="https://note.jujimeizuo.cn/" target="_blank" rel="noopener noreferrer" aria-label="Note"><img src="img/note.svg" alt="Note"></a></li>
+                <!-- <li><a href="https://twitter.com/jujimeizuo/" target="_blank" rel="noopener noreferrer" aria-label="Twitter"><img src="img/x.svg" alt="Twitter"></a></li> -->
+                <li><a href="https://t.me/jujimeizuo/" target="_blank" rel="noopener noreferrer" aria-label="Telegram"><img src="img/telegram.svg" alt="Telegram"></a></li>
+                <!-- <li><a href="http://wpa.qq.com/msgrd?v=3&uin=3058852685&site=qq&menu=yes" target="_blank" rel="noopener noreferrer" aria-label="QQ"><img src="img/qq.svg" alt="QQ"></a></li> -->
+                <li><a href="mailto:jujimeizuo@gmail.com" aria-label="Gmail"><img src="img/gmail.svg" alt="Gmail"></a></li>
+                <li><a href="https://run.jujimeizuo.cn/" target="_blank" rel="noopener noreferrer" aria-label="Run"><img src="img/activity.svg" alt="Run"></a></li>
+            </ul>
+        </nav>
+    </main>
+
+    <footer class="site-footer">
+        <p>Copyright &copy; 2020-2025 jujimeizuo</p>
+        <p><a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2021035172号-1</a></p>
+    </footer>
+
+    <button id="theme-toggle" aria-label="Toggle Dark Mode">
+
+        <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+        <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+    </button>
+    <script src="script.js"></script>
+</body>
 </html>
-
-<script src="js/mask.js"></script>
-<script src="./js/boom.js"></script>
-<script>
-  $(function(){
-      $('[data-toggle="tooltip"]').tooltip();
-  });    
-  </script>
